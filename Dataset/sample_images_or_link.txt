@@ -1,0 +1,10 @@
+Sample images are located in the License-Plate-Data/test/images/ directory.
+Example images include:
+- Cars120.png
+- Cars2.png
+- Cars21.png
+- And more...
+
+
+For more dataset information, refer to the original dataset source.</content>
+https://www.kaggle.com/datasets/sujaymann/car-number-plate-dataset-yolo-format
